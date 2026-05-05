@@ -5,9 +5,7 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Courier+New&center=true&vCenter=true&lines=%F0%9F%91%8B+Hi%2C+I'm+Himanshu+Desale;Welcome+to+my+Github+Profile;Coding+%E2%80%A2+Learning+%E2%80%A2+Growing;Tech+Enthusiast+and+Developer;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Himanshu+Desale;Welcome+to+my+Github+Profile;Coding+%E2%80%A2+Learning+%E2%80%A2+Growing;Tech+Enthusiast+and+Developer;Aspiring+Full+Stack+Developer" alt="Typing SVG" /></a>
 </div>
 
 <!-- Profile Badges with Animation -->
