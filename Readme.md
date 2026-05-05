@@ -1,0 +1,370 @@
+<div align="center">
+  
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Himanshu%20Desale&fontSize=80&reversal=true&fontAlignY=35&animation=twinkling&desc=Web%20Devloper%20|%20Vibe%20Coder%20|%20App%20Devloper&descAlign=50&descAlignY=60&descSize=20" width="100%" />
+
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Courier+New&center=true&vCenter=true&lines=%F0%9F%91%8B+Hi%2C+I'm+Himanshu+Desale;Welcome+to+my+Github+Profile;Coding+%E2%80%A2+Learning+%E2%80%A2+Growing;Tech+Enthusiast+and+Developer;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- Profile Badges with Animation -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darshan-dalvi&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/darshan-dalvi?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/darshan-dalvi?affiliations=OWNER&style=for-the-badge&label=Stars&color=yellow" alt="GitHub Stars" />
+</p>
+
+</div>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🚀 About Me
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="350" />
+
+</td>
+<td width="60%" valign="middle">
+
+<div align="center">
+
+### 👋 Hi, I'm Darshan Dalvi
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Data+Scientist;Building+Intelligent+Systems;Specialized+in+LLMs+%26+AI+Agents" alt="Typing SVG" />
+</p>
+
+</div>
+
+<br/>
+
+<div align="left">
+
+```diff
++ 📍 Location: India
++ 💼 Role: AI Engineer & Data Scientist
++ 💻 Languages: Python, SQL
++ 🎯 Focus: LLMs, AI Agents, MLOps
++ 🔧 Building: Multi-agent Systems & ML Pipelines
++ 🌱 Learning: Advanced RAG, Vector Databases
++ ✨ Passion: Clean Code & Scalable AI Solutions
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+**💭 "Build systems that think, not just respond"**
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 💫 What I Do
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
+
+### 🤖 AI Engineering
+
+</div>
+
+<br/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-FF6B6B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Integration-4ECDC4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-FFE66D?style=for-the-badge&logoColor=black" />
+</p>
+
+- ✨ Multi-agent system orchestration
+- 🔗 LLM integration & fine-tuning
+- 🎯 Prompt engineering & optimization
+- 🔄 Autonomous workflow automation
+- 🧪 Experimental AI architectures
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" />
+
+### 📊 Data Science & ML
+
+</div>
+
+<br/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Predictive_Modeling-9B59B6?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep_Learning-E74C3C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ML_Pipelines-3498DB?style=for-the-badge&logoColor=white" />
+</p>
+
+- 🎲 Predictive modeling & forecasting
+- 🔍 Feature engineering & selection
+- 📈 Statistical analysis & visualization
+- 🎨 Deep learning model design
+- 🛠️ End-to-end ML pipelines
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🎨 My Expertise Spectrum
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI_Research-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Model_Training-10B981?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Engineering-F59E0B?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/MLOps-EC4899?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/System_Design-6366F1?style=for-the-badge&logo=blueprint&logoColor=white" />
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🛠️ Tech Arsenal
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="80" height="80" />
+</p>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🧠 AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+
+</div>
+
+```
+• TensorFlow & Keras
+• PyTorch & Lightning
+• Scikit-Learn
+• OpenCV
+• Hugging Face Transformers
+```
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 💻 Languages & Core
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+
+</div>
+
+```
+• Python (Expert)
+• Pandas & NumPy
+• Flask & FastAPI
+• JavaScript
+• HTML/CSS
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🗄️ Databases & Storage
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+
+</div>
+
+```
+• PostgreSQL
+• MySQL
+• MongoDB
+• Redis
+• Vector Databases
+```
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### ☁️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,vscode" />
+
+</div>
+
+```
+• Docker & Kubernetes
+• AWS Cloud
+• Git & GitHub Actions
+• Linux/Unix
+• CI/CD Pipelines
+```
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<div align="center">
+
+### 🤖 AI Tools & Frameworks
+
+<img src="https://skillicons.dev/icons?i=github,vscode,anaconda" />
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darshan-dalvi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-dalvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-dalvi&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darshan-dalvi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshan-dalvi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff6b6b" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/darshandalvi-">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/darshandalvi12">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://instagram.com/darshandalvii">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:darshandalvi1270@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+### 💬 Open to Collaborate On:
+
+```
+✨ AI & Machine Learning Projects
+🤖 Multi-Agent Systems & Automation
+📊 Data Science & Analytics
+🧪 Experimental AI Research
+🚀 Open Source Contributions
+```
+
+</div>
+
+<div align="center">
+
+### 📈 Contribution Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshan-dalvi&theme=tokyonight" alt="Contribution Graph" />
+
+</div>
+
+<div align="center">
+  
+**"Building intelligent systems that don't just answer questions—they solve problems."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
+</div>
