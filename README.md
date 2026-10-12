@@ -1,18 +1,145 @@
-# 💫 About Me:
-I'm a BCA Student<br>Looking for job<br>aspiring web developer<br> Passionate About Coding, Technology & Innovation
+ <!--
+Create a public repository named exactly: himanshud2407
+Save this file as README.md in that repository's root.
+-->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himanshu_8o8o) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-desale-114172362) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/H1MX_2407) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/himanshud2407) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshud2407@gmail.com) 
+# 👋 Hey, I'm Himanshu Desale
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=himanshud2407&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=himanshud2407&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshud2407&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 💻 Aspiring Software Developer | Web Development | Backend Development
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Projects%2C+One+Commit+at+a+Time;Exploring+Web+%26+Backend+Development;Learning+by+Building+Real+Projects;Turning+Ideas+Into+Code" alt="Animated developer introduction" />
+
+<p>
+  <a href="https://github.com/himanshud2407">
+    <img src="https://img.shields.io/badge/GitHub-himanshud2407-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:himanshud2407@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=himanshud2407&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+
+🎓 I'm a **BCA student** passionate about software development and technology.
+
+💻 I enjoy exploring web development, building practical projects, and learning how applications work behind the scenes.
+
+🌱 Currently exploring **Python, backend development, APIs, and database concepts** while improving my programming skills.
+
+🛠️ I enjoy working on projects that solve real-world problems, from web applications to management systems.
+
+🎯 My goal is to become a skilled software developer by continuously learning, building, and improving.
+
+<br clear="right"/>
+
+## 🛠️ Tech Stack
+
+### Languages & Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" alt="HTML, CSS, JavaScript, TypeScript, Python"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, Visual Studio Code"/>
+</p>
+
+## 💡 Featured Projects
+
+Here are a few repositories from my GitHub profile.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Development Project
+
+**[WD-project](https://github.com/himanshud2407/WD-project)**
+
+Explore my web development work and experiments.
+
+</td>
+<td width="50%">
+
+### 🏏 Cricket Management
+
+**[cricket-managem](https://github.com/himanshud2407/cricket-managem)**
+
+A project focused on cricket management.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎬 Zoomin Framez
+
+**[Zoomin-Framez](https://github.com/himanshud2407/Zoomin-Framez)**
+
+Explore my TypeScript-based project.
+
+</td>
+<td width="50%">
+
+### 💻 More Projects
+
+**[Explore all repositories →](https://github.com/himanshud2407?tab=repositories)**
+
+Discover more of my coding projects and experiments.
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=himanshud2407&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshud2407&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages"/>
+
+</div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=himanshud2407&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshud2407&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%"/>
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/himanshud2407">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="mailto:himanshud2407@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+### 💬 "Great software is built one problem, one solution, and one commit at a time."
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories.
+
+</div>
